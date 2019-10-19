@@ -1,0 +1,7 @@
+html { 
+    background: url(https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_350,q_50,w_623/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
